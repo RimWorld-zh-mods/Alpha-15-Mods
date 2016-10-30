@@ -33,7 +33,7 @@ Author: Ratysz
 License: [GPLv3](https://github.com/Ratysz/RT_QuantumStorage/blob/A15-1.0.5/License.txt)  
 Publish Page: [Ludeon](https://ludeon.com/forums/index.php?topic=11272.0), [GitHub](https://github.com/Ratysz/RT_QuantumStorage)  
 Download: [Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=728318507), [GitHub](https://github.com/RimWorld-zh/Alpha-15-Mods/releases/tag/RT_QuantumStorage)  
-Others: [簡介]() [教學視頻](http://www.bilibili.com/video/av6605174) 
+Others: [簡介]() [教學視頻](http://www.bilibili.com/video/av4478430/) 
 
 **RT_Fuse RT电路保护 RT電路保護**  
 Author: Ratysz License: [GPLv3](https://github.com/Ratysz/RT_SolarFlareShield/blob/master/License.txt)  
