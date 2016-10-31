@@ -1,0 +1,84 @@
+【A15 Mod汉化】Rimsenal 边缘军工
+
+Mod英文名称：Rimsenal
+Mod中文名称：边缘军工
+
+作者：rooki1
+论坛主题：https://ludeon.com/forums/index.php?topic=11160.0
+创意工坊：http://steamcommunity.com/sharedfiles/filedetails/?id=725950793
+
+翻译：duduluu (@风之起灵 )
+繁体转换：Biscuit (@脆餅 )
+
+【Download 下载】
+「下载汇总」https://rimworld-zh.github.io/Alpha-15-Mods/
+「游戏笔记」http://www.gamejilu.com/project/rimworld/rimsenal/
+
+【备注】
+　　汉化文件已提交作者，等待作者采用后会在此贴2楼发布通知，届时Steam玩家可直接在创意工坊订阅内置了汉化的Mod。
+
+
+
+【Rimsenal 边缘军工】
+
+　　核心Mod，增加四大系武器装备的制作技术：
+　　「允和高精 Yunhwa Precision」晶刺技术 
+　　「巨人星际 Jotun Interstellar」熔火技术
+　　「底西福涅公司 Tisiphone Enterprise」动能技术
+　　「灰谷防御 Greydale Defence」防御技术
+
+　　注：有少数几种武器无法自产。
+　　注：部分子Mod需要核心Mod支持下才能正确加载，请先激活核心，再激活子Mod。
+
+
+
+【Rimsenal Federation 边缘军工 联邦】
+
+　　子Mod，需要在核心之后激活，增加：
+　　邪恶派系：「联邦维和部队 Federation Peacekeeper Corps」
+　　武器装备的制作技术：「武装动力 Arms Dynamics」熔炉技术
+
+
+
+【Rimsenal Feral 边缘军工 蛮族】
+
+　　子Mod，需要在核心之后激活，增加：
+　　邪恶派系：「蛮族 Feral 」
+　　「废土」系列武器的制作技术
+
+
+
+【Rimsenal Security pack 边缘军工 防卫包】
+
+　　子Mod，需要在核心之后激活，增加几种防御阵地、炮塔和加农炮。
+
+
+
+【Rimsenal RimHair 边缘军工 边缘发型】
+
+　　独立Mod，可单独加载，增加多种发现。
+
+
+
+【Rimsenal Storytellers pack 边缘军工 故事叙述者包】
+
+　　独立Mod，可单独加载，增加三位故事叙述者：
+
+
+「歇斯底里」苍鹰
+朋友，派对时间已经结束了。是时候面对真实的故事了。
+苍鹰，允和高精新闻发言人，她对讲述故事有独到的见解。在早期，在你完全发展起来之前，苍鹰会对你的殖民地照顾有加。然后呢？她会无情地蹂躏你。赶紧行动，做好迎接审判的降临！
+　　
+
+「虐待狂」宁静
+悲剧也有自己独特的魅力。请细细品味。
+宁静，暴戾的联邦维和部队指挥员，她有一大堆基于她之前工作类型的痛苦故事。在她的故事中，角色在无尽的痛苦挣扎后往往迎来死亡。她极爱这类故事。除了较少的袭击，她会引发大量折磨人的小事件。
+
+
+「史诗」希尔德佳
+只有一种方式能证明一个人的真正价值。那就是战火的考验。
+希尔德佳，一位从残酷的机械族战争中存活下来的老兵，巨人兵团的吟游诗人，她的歌声就像巨人王牌军团的人一样，充满了硝烟和战争。她会带来更多的“大威胁”而更少的事件。
+
+
+【许可协议】
+　　边缘汉化组出品，转载必须注明Mod原作者名称和论坛主题，本汉化组名称以及本帖链接。严禁商用，禁止转载到3DM。
