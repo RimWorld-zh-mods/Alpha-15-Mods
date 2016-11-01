@@ -1,6 +1,8 @@
 # RimWorld A15 Chinese Mods
 RimWorld 简体汉化/繁体汉化 Mods
 
+[下载页面](https://rimworld-zh.github.io/Alpha-15-Mods/)
+
 ### Welcom!
 This is RimWorld Chinese Mods Collection Page( Version Alpha15/0.15).  
 The below mods are all with Simplified Chinese and Traditional Chinese translation.  
@@ -23,37 +25,3 @@ And the Chinese translation data have been used by the author, so Steam users co
 > * Biscuit (脆餅)
 > * cainiaowu
 > * duduluu (風之起靈)
-
-----
-
-### Mods
-
-**RT_QuantumStorage RT量子储存 RT量子儲存**  
-Author: Ratysz  
-License: [GPLv3](https://github.com/Ratysz/RT_QuantumStorage/blob/A15-1.0.5/License.txt)  
-Publish Page: [Ludeon](https://ludeon.com/forums/index.php?topic=11272.0), [GitHub](https://github.com/Ratysz/RT_QuantumStorage)  
-Download: [Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=728318507), [GitHub](https://github.com/RimWorld-zh/Alpha-15-Mods/releases/tag/RT_QuantumStorage)  
-Others: [簡介]() [教學視頻](http://www.bilibili.com/video/av4478430/) 
-
-**RT_Fuse RT电路保护 RT電路保護**  
-Author: Ratysz License: [GPLv3](https://github.com/Ratysz/RT_SolarFlareShield/blob/master/License.txt)  
-Publish Page: [Ludeon](https://ludeon.com/forums/index.php?topic=11272.0) [GitHub](https://github.com/Ratysz/RT_Fuse)  
-Download: [Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=728314182) [GitHub](https://github.com/RimWorld-zh/Alpha-15-Mods/releases/tag/RT_Fuse)  
-Others: 簡介
-
-**RT_SolarFlareShield RT太阳耀斑屏障 RT太陽閃焰屏障**  
-Author: Ratysz  
-License: [GPLv3](https://github.com/Ratysz/RT_SolarFlareShield/blob/A15-1.0.5/License.txt)  
-Publish Page: [Ludeon](https://ludeon.com/forums/index.php?topic=11272.0) [GitHub](https://github.com/Ratysz/RT_SolarFlareShield)  
-Download: [Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=728315620) [GitHub](https://github.com/RimWorld-zh/Alpha-15-Mods/releases/tag/RT_SolarFlareShield)  
-Others: 簡介 
-
-**RT_PowerSwitch RT紧急电源 RT緊急電源**  
-Author: Ratysz  
-License: [GPLv3](https://github.com/Ratysz/RT_PowerSwitch/blob/A15-1.0.2/License.txt)  
-Publish Page: [Ludeon](https://ludeon.com/forums/index.php?topic=11272.0) [GitHub](https://github.com/Ratysz/RT_PowerSwitch)  
-Download: [Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=728314859) [GitHub](https://github.com/RimWorld-zh/Alpha-15-Mods/releases/tag/RT_SolarFlareShield)  
-Others: 簡介 
-
-
-
